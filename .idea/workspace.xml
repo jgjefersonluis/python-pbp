@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e11e11-ba9b-45b1-9c09-7b934011e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/secao01-introducao/operadoreslogicobooleanos/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao01-introducao/operadoresrelacionais/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastroinput/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastrovariavelprint/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio-Procurado/procura-se.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio-Procurado/procurado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastroinput/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastroinput/dadospessoais.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastroinput/dadospessoais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastroinput/informacoescomerciais.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastroinput/informacoescomerciais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastroinput/informacoesmedicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastroinput/informacoesmedicas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastrovariavelprint/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/operadoresaritmeticos/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastrovariavelprint/dadospessoais.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastrovariavelprint/dadospessoais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastrovariavelprint/informacoescomerciais.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastrovariavelprint/informacoescomerciais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/cadastrovariavelprint/informacoesmedicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/cadastrovariavelprint/informacoesmedicas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main01.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main02.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main03.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main04-print.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main04-print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main05.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main06-valor-definido-pelo-usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main06-valor-definido-pelo-usuario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main07-prompt.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main07-prompt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main08-type.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main08-type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main09-strings-cast-converte.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main09-strings-cast-converte.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main11.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main12-cast.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main12-cast.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main13-cast.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main13-cast.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main14.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/main15-time.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao01-introducao/variaveis/main15-time.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,70 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="dadospessoais (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projetos_pbp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variaveis/cadastroinput" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variaveis/cadastroinput/dadospessoais.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="informacoescomerciais (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projetos_pbp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variaveis/cadastroinput" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variaveis/cadastroinput/informacoescomerciais.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="informacoesmedicas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projetos_pbp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variaveis/cadastroinput" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variaveis/cadastroinput/informacoesmedicas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.procura-se">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao01-introducao/operadoreslogicobooleanos/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projetos_pbp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao01-introducao/operadoresaritmeticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao01-introducao/operadoresaritmeticos/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,13 +114,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="procura-se" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projetos_pbp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafio-Procurado" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio-Procurado/procura-se.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="procurado" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projetos_pbp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafio-Procurado" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio-Procurado/procurado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.procura-se" />
+        <item itemvalue="Python.procurado" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.informacoesmedicas (1)" />
-        <item itemvalue="Python.informacoescomerciais (1)" />
-        <item itemvalue="Python.dadospessoais (1)" />
       </list>
     </recent_temporary>
   </component>
