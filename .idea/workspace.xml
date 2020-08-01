@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e11e11-ba9b-45b1-9c09-7b934011e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio-Procurado/procura-se.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio-Procurado/procurado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula01-operadores/operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula02-variaveis-comandos/bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula02-variaveis-comandos/float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula02-variaveis-comandos/variaveis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula03-juros/juros1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula03-juros/juros2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula04-conversor/conversor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/velocidademedia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula06-tempo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula07-aumentosalarial/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula08-desconto/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula09-temperatura/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula20-aluguel/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.procura-se">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao01-introducao/operadoreslogicobooleanos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula06-tempo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao01-introducao/operadoreslogicobooleanos/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula06-tempo/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,11 +92,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao01-introducao/operadoresaritmeticos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula07-aumentosalarial" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao01-introducao/operadoresaritmeticos/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula07-aumentosalarial/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projetos_pbp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula09-temperatura" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula09-temperatura/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao01-introducao/operadoresrelacionais" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao01-introducao/operadoresrelacionais/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="procura-se" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="velocidademedia" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,32 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafio-Procurado" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio-Procurado/procura-se.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="procurado" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projetos_pbp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafio-Procurado" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio-Procurado/procurado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/velocidademedia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,10 +170,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.procura-se" />
-        <item itemvalue="Python.procurado" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.velocidademedia" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
