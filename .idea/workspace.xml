@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e11e11-ba9b-45b1-9c09-7b934011e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula01-operadores/operadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula02-variaveis-comandos/bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula02-variaveis-comandos/float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula02-variaveis-comandos/variaveis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula03-juros/juros1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula03-juros/juros2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula04-conversor/conversor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/velocidademedia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula06-tempo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula07-aumentosalarial/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula08-desconto/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula09-temperatura/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula20-aluguel/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula21-aumentovelocidade/reducao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula21-reducaovida/velocidade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula22-valormaiormenor/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula23-aumentosalarial/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula24-operacao/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula25-financiamento/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula26-consumoenergia/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main2 (1)">
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula06-tempo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula26-consumoenergia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula06-tempo/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula26-consumoenergia/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,32 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula07-aumentosalarial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula07-aumentosalarial/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projetos_pbp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula09-temperatura" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula09-temperatura/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="velocidademedia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +131,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula05-velocidademedia/velocidademedia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projetos_pbp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.velocidademedia" />
+        <item itemvalue="Python.main2 (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main2" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
       </list>
     </recent_temporary>
   </component>
