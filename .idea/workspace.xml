@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e11e11-ba9b-45b1-9c09-7b934011e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula21-aumentovelocidade/reducao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula21-reducaovida/velocidade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula22-valormaiormenor/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula23-aumentosalarial/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula24-operacao/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula25-financiamento/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula26-consumoenergia/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula29-somamedia/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula30-for/for-temperatura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula30-for/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula31-while/contador-while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main2 (1)">
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.for-nomes">
+    <configuration name="contador-while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula26-consumoenergia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula31-while" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula26-consumoenergia/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula31-while/contador-while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for-nomes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula30-for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula30-for/for-nomes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for-temperatura" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula30-for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula30-for/for-temperatura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula29-somamedia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula28-tabuada/main2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula29-somamedia/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula30-for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula27-lacorepeticao/main2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula30-for/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main2 (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main2" />
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.for-nomes" />
+        <item itemvalue="Python.for-temperatura" />
+        <item itemvalue="Python.contador-while" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
