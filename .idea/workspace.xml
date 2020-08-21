@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e11e11-ba9b-45b1-9c09-7b934011e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula29-somamedia/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula30-for/for-temperatura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula30-for/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao02-basico/aula31-while/contador-while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula32-funcoes/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula32-funcoes/potencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao02-basico/aula33-fibonacci/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +28,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/variaveis/cadastroinput" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,28 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.for-nomes">
-    <configuration name="contador-while" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projetos_pbp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula31-while" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula31-while/contador-while.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="for-nomes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula29-somamedia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula33-fibonacci" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula29-somamedia/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula33-fibonacci/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projetos_pbp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +123,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula30-for" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula32-funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula30-for/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula32-funcoes/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="potencia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projetos_pbp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02-basico/aula32-funcoes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02-basico/aula32-funcoes/potencia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.potencia" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.for-nomes" />
         <item itemvalue="Python.for-temperatura" />
-        <item itemvalue="Python.contador-while" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
